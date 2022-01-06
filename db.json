@@ -35,14 +35,6 @@
 				"placement": "Start"
 			},
 			{
-				"_id": "5bbbf6318b2e6bc7cc71abc4",
-				"stopName": "Yashodham High School",
-				"stopType": "School",
-				"lng": 72.8662,
-				"lat": 19.173501,
-				"placement": "Start"
-			},
-			{
 				"_id": "5bbbf6318b2e6bc7cc71abf9",
 				"stopName": "Aster Tower (In Gate)",
 				"stopType": "Stop",
@@ -51,67 +43,11 @@
 				"placement": "Intermediate"
 			},
 			{
-				"_id": "5bd4d9e5fa8a8027baac461d",
-				"stopName": "Dindoshi Fire Brigade",
-				"stopType": "Stop",
-				"lng": 72.86127,
-				"lat": 19.175072,
-				"placement": "Intermediate"
-			},
-			{
 				"_id": "5bbbf6318b2e6bc7cc71ac77",
 				"stopName": "Shivam 2 (Raheja Complex Down)",
 				"stopType": "Stop",
 				"lng": 72.860096,
 				"lat": 19.191194,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71abfa",
-				"stopName": "Satyam 2 (Raheja Complex 1/2)",
-				"stopType": "Stop",
-				"lng": 72.859034,
-				"lat": 19.191686,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71ac74",
-				"stopName": "Rizvi Oak Tower (Raheja Complex 1/2)",
-				"stopType": "Stop",
-				"lng": 72.861884,
-				"lat": 19.191043,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71abfc",
-				"stopName": "Parishram Society/Ganpati Mandir",
-				"stopType": "Stop",
-				"lng": 72.859925,
-				"lat": 19.17654,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71ac48",
-				"stopName": "Dindoshi Onkar CHS (Shivdham)",
-				"stopType": "Stop",
-				"lng": 72.861439,
-				"lat": 19.17545,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71ac4f",
-				"stopName": "Shivalay Building/Saket (Shivdham)",
-				"stopType": "Stop",
-				"lng": 72.862283,
-				"lat": 19.176086,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71ac4c",
-				"stopName": "Sneh Sagar/Darshan (Shivdham)",
-				"stopType": "Stop",
-				"lng": 72.861633,
-				"lat": 19.175641,
 				"placement": "Intermediate"
 			},
 			{
@@ -131,44 +67,12 @@
 				"placement": "Intermediate"
 			},
 			{
-				"_id": "5bbbf6318b2e6bc7cc71abb2",
-				"stopName": "(Vridhavan) Megh Malhar CHS/Dak Sanghatan/Sai Baba Mandir ",
-				"stopType": "Stop",
-				"lng": 72.864266,
-				"lat": 19.17726,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71ac49",
-				"stopName": "Nandan/DB House",
-				"stopType": "Stop",
-				"lng": 72.863526,
-				"lat": 19.174586,
-				"placement": "Intermediate"
-			},
-			{
 				"_id": "5bbbf6318b2e6bc7cc71ac75",
 				"stopName": "Oberoi Exequitives (Front Gate)",
 				"stopType": "Stop",
 				"lng": 72.864624,
 				"lat": 19.170809,
 				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71abd4",
-				"stopName": "Sai Baba Complex",
-				"stopType": "Stop",
-				"lng": 72.868311,
-				"lat": 19.168487,
-				"placement": "Intermediate"
-			},
-			{
-				"_id": "5bbbf6318b2e6bc7cc71abc7",
-				"stopName": "Lakshdham High School",
-				"stopType": "School",
-				"lng": 72.871216,
-				"lat": 19.169607,
-				"placement": "End"
 			},
 			{
 				"_id": "5bbbf6318b2e6bc7cc71abc4",
@@ -201,11 +105,6 @@
 			"lat": 19.173501,
 			"placement": "Start"
 		},
-		"lastLatLng": {
-			"lat": 19.169607,
-			"lng": 72.871216,
-			"tstamp": "2022-01-06T12:07:22.691Z"
-		},
 		"etaInfo": {
 			"timeStamp": "2022-01-06T12:07:22.738Z",
 			"axis": {
@@ -230,67 +129,11 @@
 					"placement": "Intermediate"
 				},
 				{
-					"stopId": "5bd4d9e5fa8a8027baac461d",
-					"stopName": "Dindoshi Fire Brigade",
-					"eta": "5:42 PM",
-					"arrivingIn": "5.03 mins",
-					"distance": "1.46 kms",
-					"placement": "Intermediate"
-				},
-				{
 					"stopId": "5bbbf6318b2e6bc7cc71ac77",
 					"stopName": "Shivam 2 (Raheja Complex Down)",
 					"eta": "5:48 PM",
 					"arrivingIn": "11.52 mins",
 					"distance": "3.22 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71abfa",
-					"stopName": "Satyam 2 (Raheja Complex 1/2)",
-					"eta": "5:49 PM",
-					"arrivingIn": "11.92 mins",
-					"distance": "3.34 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71ac74",
-					"stopName": "Rizvi Oak Tower (Raheja Complex 1/2)",
-					"eta": "5:50 PM",
-					"arrivingIn": "13.13 mins",
-					"distance": "3.64 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71abfc",
-					"stopName": "Parishram Society/Ganpati Mandir",
-					"eta": "5:55 PM",
-					"arrivingIn": "18.48 mins",
-					"distance": "5.23 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71ac48",
-					"stopName": "Dindoshi Onkar CHS (Shivdham)",
-					"eta": "5:56 PM",
-					"arrivingIn": "19.18 mins",
-					"distance": "5.42 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71ac4f",
-					"stopName": "Shivalay Building/Saket (Shivdham)",
-					"eta": "5:56 PM",
-					"arrivingIn": "19.55 mins",
-					"distance": "5.53 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71ac4c",
-					"stopName": "Sneh Sagar/Darshan (Shivdham)",
-					"eta": "5:57 PM",
-					"arrivingIn": "19.82 mins",
-					"distance": "5.62 kms",
 					"placement": "Intermediate"
 				},
 				{
@@ -310,44 +153,12 @@
 					"placement": "Intermediate"
 				},
 				{
-					"stopId": "5bbbf6318b2e6bc7cc71abb2",
-					"stopName": "(Vridhavan) Megh Malhar CHS/Dak Sanghatan/Sai Baba Mandir ",
-					"eta": "5:58 PM",
-					"arrivingIn": "21.40 mins",
-					"distance": "6.06 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71ac49",
-					"stopName": "Nandan/DB House",
-					"eta": "5:59 PM",
-					"arrivingIn": "22.33 mins",
-					"distance": "6.36 kms",
-					"placement": "Intermediate"
-				},
-				{
 					"stopId": "5bbbf6318b2e6bc7cc71ac75",
 					"stopName": "Oberoi Exequitives (Front Gate)",
 					"eta": "6:01 PM",
 					"arrivingIn": "23.83 mins",
 					"distance": "6.79 kms",
 					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71abd4",
-					"stopName": "Sai Baba Complex",
-					"eta": "6:02 PM",
-					"arrivingIn": "25.23 mins",
-					"distance": "7.24 kms",
-					"placement": "Intermediate"
-				},
-				{
-					"stopId": "5bbbf6318b2e6bc7cc71abc7",
-					"stopName": "Lakshdham High School",
-					"eta": "6:03 PM",
-					"arrivingIn": "26.27 mins",
-					"distance": "7.56 kms",
-					"placement": "End"
 				},
 				{
 					"stopId": "5bbbf6318b2e6bc7cc71abc4",
