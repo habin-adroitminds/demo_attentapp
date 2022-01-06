@@ -1,8 +1,371 @@
 {
   "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+    {
+	"activeRoutes": [{
+		"sessionId": "61d6db7aff6c640011e150b2",
+		"route": "5bbbf6318b2e6bc7cc71ac78",
+		"multiRoute": "5bbbf6318b2e6bc7cc71ac79",
+		"isMulti": 1,
+		"sessionStartTime": "2022-01-06T12:07:22.634Z",
+		"sessionEndTime": null,
+		"sessionType": "Multi",
+		"multiType": "Dropoff",
+		"source": {
+			"_id": "5bbbf6318b2e6bc7cc71abc7",
+			"stopName": "Lakshdham High School",
+			"stopType": "School",
+			"lng": 72.871216,
+			"lat": 19.169607,
+			"placement": "Start"
+		},
+		"destination": {
+			"_id": "5bbbf6318b2e6bc7cc71abc4",
+			"stopName": "Yashodham High School",
+			"stopType": "School",
+			"lng": 72.8662,
+			"lat": 19.173501,
+			"placement": "Start"
+		},
+		"stops": [{
+				"_id": "5bbbf6318b2e6bc7cc71abc7",
+				"stopName": "Lakshdham High School",
+				"stopType": "School",
+				"lng": 72.871216,
+				"lat": 19.169607,
+				"placement": "Start"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abc4",
+				"stopName": "Yashodham High School",
+				"stopType": "School",
+				"lng": 72.8662,
+				"lat": 19.173501,
+				"placement": "Start"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abf9",
+				"stopName": "Aster Tower (In Gate)",
+				"stopType": "Stop",
+				"lng": 72.860604,
+				"lat": 19.176291,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bd4d9e5fa8a8027baac461d",
+				"stopName": "Dindoshi Fire Brigade",
+				"stopType": "Stop",
+				"lng": 72.86127,
+				"lat": 19.175072,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac77",
+				"stopName": "Shivam 2 (Raheja Complex Down)",
+				"stopType": "Stop",
+				"lng": 72.860096,
+				"lat": 19.191194,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abfa",
+				"stopName": "Satyam 2 (Raheja Complex 1/2)",
+				"stopType": "Stop",
+				"lng": 72.859034,
+				"lat": 19.191686,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac74",
+				"stopName": "Rizvi Oak Tower (Raheja Complex 1/2)",
+				"stopType": "Stop",
+				"lng": 72.861884,
+				"lat": 19.191043,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abfc",
+				"stopName": "Parishram Society/Ganpati Mandir",
+				"stopType": "Stop",
+				"lng": 72.859925,
+				"lat": 19.17654,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac48",
+				"stopName": "Dindoshi Onkar CHS (Shivdham)",
+				"stopType": "Stop",
+				"lng": 72.861439,
+				"lat": 19.17545,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac4f",
+				"stopName": "Shivalay Building/Saket (Shivdham)",
+				"stopType": "Stop",
+				"lng": 72.862283,
+				"lat": 19.176086,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac4c",
+				"stopName": "Sneh Sagar/Darshan (Shivdham)",
+				"stopType": "Stop",
+				"lng": 72.861633,
+				"lat": 19.175641,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac02",
+				"stopName": "Shagun Mall",
+				"stopType": "Stop",
+				"lng": 72.8636,
+				"lat": 19.17519,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac4e",
+				"stopName": "Vasant Valley",
+				"stopType": "Stop",
+				"lng": 72.864039,
+				"lat": 19.176781,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abb2",
+				"stopName": "(Vridhavan) Megh Malhar CHS/Dak Sanghatan/Sai Baba Mandir ",
+				"stopType": "Stop",
+				"lng": 72.864266,
+				"lat": 19.17726,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac49",
+				"stopName": "Nandan/DB House",
+				"stopType": "Stop",
+				"lng": 72.863526,
+				"lat": 19.174586,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71ac75",
+				"stopName": "Oberoi Exequitives (Front Gate)",
+				"stopType": "Stop",
+				"lng": 72.864624,
+				"lat": 19.170809,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abd4",
+				"stopName": "Sai Baba Complex",
+				"stopType": "Stop",
+				"lng": 72.868311,
+				"lat": 19.168487,
+				"placement": "Intermediate"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abc7",
+				"stopName": "Lakshdham High School",
+				"stopType": "School",
+				"lng": 72.871216,
+				"lat": 19.169607,
+				"placement": "End"
+			},
+			{
+				"_id": "5bbbf6318b2e6bc7cc71abc4",
+				"stopName": "Yashodham High School",
+				"stopType": "School",
+				"lng": 72.8662,
+				"lat": 19.173501,
+				"placement": "End"
+			}
+		],
+		"encodedPath": [
+			"_a_tBmtw{LtG|@PDFH@NKbBg@`E[zDSbBa@tDa@~Eg@zFCNGDEDu@EiAG_BIwEWgCIWJJ{@P_@PQN_@@S?WGKOKaBOiEe@Ee@Dd@uA@Q@SB]?c@@kAJoC\\l@dE|@nGh@|E^lD]Ba@Dc@R[XWZQ`@YbBSGQG]GgAEfADn@NRFXcBPa@V[ZYh@Ux@GdAnIJ|AmAD_DVqCn@w@Fc@LQ@QC}@R_Cf@u@Hy@BcKFkCA_Y@iF@oLDcD@_@NQD_A@]IaC@{AB@gA?UECMEm@Ik@O]S[YCSH[^i@HKRWHUDa@?Q?PE`@ITSVY^U`@CN@NRTLHMISUAOBOTa@X_@RWHUD}@CkCFC`AKJCDE?KAgD@fD?JEDKBaAJGBBjC?ZE`@ITSVIJ_@h@IZBRZX\\Rj@Nl@HLDDB?T?NT@b@?jBAhBAfA?PBPBl@AnBAT?nL@rCArEIhQBjE?pCClGGxBQ`AU|D}@XUNIfB_@jBYjA?dAC_@oCo@_F[BUJa@R[^SZa@tBCPGFOL}Cj@|Ck@NMFGBQ`@uBR[Z_@sAiA_BeC",
+			"si`tBc|u{LxA|ByA}BRk@J_@b@IjC[YyCS}AaA@mCHe@?gCAGq@Fp@bB@r@?zBGhBCXCBLXrBpAYPEd@GZAd@BLFtAjAXD^ANGHINSfCgFT]HGLCR?hFTzBLdETHGDMx@oJ`@eEd@eEZ{Df@aEJkBEKKGqAScEk@IAH@bEj@pARJFDJKjBg@`E[zDe@dEO|A{@nJOfBELIFyAI{COeH_@k@?IDEDBSB]HWf@u@FW@YCMMKQIeFe@{@KEe@Dd@z@JdFd@PHLJBLAXGVg@t@IVC\\CRDEHEj@?`Mn@xAHHGDMNgBz@oJp@sG"
+		],
+		"stopsCompleted": [{
+			"_id": "5bbbf6318b2e6bc7cc71abc7",
+			"stopName": "Lakshdham High School",
+			"stopType": "School",
+			"lng": 72.871216,
+			"lat": 19.169607,
+			"placement": "Start",
+			"index": 0,
+			"tstamp": "2022-01-06T12:07:22.691Z"
+		}],
+		"nextStop": {
+			"_id": "5bbbf6318b2e6bc7cc71abc4",
+			"stopName": "Yashodham High School",
+			"stopType": "School",
+			"lng": 72.8662,
+			"lat": 19.173501,
+			"placement": "Start"
+		},
+		"lastLatLng": {
+			"lat": 19.169607,
+			"lng": 72.871216,
+			"tstamp": "2022-01-06T12:07:22.691Z"
+		},
+		"etaInfo": {
+			"timeStamp": "2022-01-06T12:07:22.738Z",
+			"axis": {
+				"lat": 19.169607,
+				"lng": 72.871216,
+				"tstamp": "2022-01-06T12:07:22.691Z"
+			},
+			"stopEtas": [{
+					"stopId": "5bbbf6318b2e6bc7cc71abc4",
+					"stopName": "Yashodham High School",
+					"eta": "5:39 PM",
+					"arrivingIn": "2.12 mins",
+					"distance": "0.67 km",
+					"placement": "Start"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71abf9",
+					"stopName": "Aster Tower (In Gate)",
+					"eta": "5:41 PM",
+					"arrivingIn": "4.45 mins",
+					"distance": "1.31 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bd4d9e5fa8a8027baac461d",
+					"stopName": "Dindoshi Fire Brigade",
+					"eta": "5:42 PM",
+					"arrivingIn": "5.03 mins",
+					"distance": "1.46 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac77",
+					"stopName": "Shivam 2 (Raheja Complex Down)",
+					"eta": "5:48 PM",
+					"arrivingIn": "11.52 mins",
+					"distance": "3.22 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71abfa",
+					"stopName": "Satyam 2 (Raheja Complex 1/2)",
+					"eta": "5:49 PM",
+					"arrivingIn": "11.92 mins",
+					"distance": "3.34 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac74",
+					"stopName": "Rizvi Oak Tower (Raheja Complex 1/2)",
+					"eta": "5:50 PM",
+					"arrivingIn": "13.13 mins",
+					"distance": "3.64 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71abfc",
+					"stopName": "Parishram Society/Ganpati Mandir",
+					"eta": "5:55 PM",
+					"arrivingIn": "18.48 mins",
+					"distance": "5.23 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac48",
+					"stopName": "Dindoshi Onkar CHS (Shivdham)",
+					"eta": "5:56 PM",
+					"arrivingIn": "19.18 mins",
+					"distance": "5.42 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac4f",
+					"stopName": "Shivalay Building/Saket (Shivdham)",
+					"eta": "5:56 PM",
+					"arrivingIn": "19.55 mins",
+					"distance": "5.53 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac4c",
+					"stopName": "Sneh Sagar/Darshan (Shivdham)",
+					"eta": "5:57 PM",
+					"arrivingIn": "19.82 mins",
+					"distance": "5.62 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac02",
+					"stopName": "Shagun Mall",
+					"eta": "5:57 PM",
+					"arrivingIn": "20.47 mins",
+					"distance": "5.82 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac4e",
+					"stopName": "Vasant Valley",
+					"eta": "5:58 PM",
+					"arrivingIn": "21.18 mins",
+					"distance": "6.00 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71abb2",
+					"stopName": "(Vridhavan) Megh Malhar CHS/Dak Sanghatan/Sai Baba Mandir ",
+					"eta": "5:58 PM",
+					"arrivingIn": "21.40 mins",
+					"distance": "6.06 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac49",
+					"stopName": "Nandan/DB House",
+					"eta": "5:59 PM",
+					"arrivingIn": "22.33 mins",
+					"distance": "6.36 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71ac75",
+					"stopName": "Oberoi Exequitives (Front Gate)",
+					"eta": "6:01 PM",
+					"arrivingIn": "23.83 mins",
+					"distance": "6.79 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71abd4",
+					"stopName": "Sai Baba Complex",
+					"eta": "6:02 PM",
+					"arrivingIn": "25.23 mins",
+					"distance": "7.24 kms",
+					"placement": "Intermediate"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71abc7",
+					"stopName": "Lakshdham High School",
+					"eta": "6:03 PM",
+					"arrivingIn": "26.27 mins",
+					"distance": "7.56 kms",
+					"placement": "End"
+				},
+				{
+					"stopId": "5bbbf6318b2e6bc7cc71abc4",
+					"stopName": "Yashodham High School",
+					"eta": "6:05 PM",
+					"arrivingIn": "28.48 mins",
+					"distance": "8.23 kms",
+					"placement": "End"
+				}
+			]
+		},
+		"bus": {
+			"busNumber": "KL-2",
+			"registration": "KL-2"
+		}
+	}],
+	"maxZoom": 18
+}
   ],
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
