@@ -25,6 +25,11 @@
 				"lat": 19.173501,
 				"placement": "Start"
 			},
+			  "lastLatLng": {
+                "lat": 19.169607,
+                "lng": 72.871216,
+                "tstamp": "2022-01-07T06:32:30.747Z"
+            },
 			"stops": [{
 					"_id": "5bbbf6318b2e6bc7cc71abc7",
 					"stopName": "Lakshdham High School",
